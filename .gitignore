@@ -1,3 +1,4 @@
 .env
 /images/*
 /turtles/*
+.ipynb_checkpoints
